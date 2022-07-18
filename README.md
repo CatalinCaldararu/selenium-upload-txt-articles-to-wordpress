@@ -1,4 +1,4 @@
-# Wordpress Post Creator using Selenium UI Automation
+# Wordpress Post Creator from TXT using Selenium UI Automation
 
 ## Description:
 Script to easily upload multiple Txt files as articles to your Wordpress Blog.
