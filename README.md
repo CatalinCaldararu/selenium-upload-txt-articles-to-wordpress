@@ -1,10 +1,10 @@
 # Wordpress Post Creator using Selenium UI Automation
 
 ## Description:
-This script allows you to insert multiple articles that are stored as txt files to your Wordpress website. 
+Script to easily upload multiple Txt files as articles to your Wordpress Blog.
 
 ## Setup:
-When I created this project I used:
+In order to create and run this project I used:
 - Python 3.8
 - Pyperclip
 - Selenium
